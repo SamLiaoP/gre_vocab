@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6f039d5290bfa6da","x":60,"y":-390,"width":360,"height":230,"type":"file","file":"English/Vocabulary/C/cogent.md"},
+		{"id":"797248502ebfe815","x":60,"y":-60,"width":360,"height":260,"type":"file","file":"English/Vocabulary/C/conclusive.md"},
+		{"id":"75278efc87431bbb","x":60,"y":280,"width":360,"height":320,"type":"file","file":"English/Vocabulary/C/compelling.md"},
+		{"id":"d8b48746e55a1a6f","x":-580,"y":45,"width":290,"height":115,"type":"text","text":"# 有說服力3C"}
+	],
+	"edges":[
+		{"id":"f39c6bcf3f2425d7","fromNode":"d8b48746e55a1a6f","fromSide":"right","toNode":"6f039d5290bfa6da","toSide":"left"},
+		{"id":"d3fa19e75faefb3b","fromNode":"d8b48746e55a1a6f","fromSide":"right","toNode":"797248502ebfe815","toSide":"left"},
+		{"id":"edd2da8fe795c930","fromNode":"d8b48746e55a1a6f","fromSide":"right","toNode":"75278efc87431bbb","toSide":"left"}
+	]
+}
