@@ -1,3 +1,5 @@
+# germane
+
 
 ## 字首：
 
@@ -14,7 +16,7 @@ adj.
 germane + to
 
 ## 同義字：
-[[apposite]]
+[apposite](/Vocabulary/A/apposite.md)
 [[fitting]]
 [[relevant]]
 

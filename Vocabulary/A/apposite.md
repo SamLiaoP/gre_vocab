@@ -1,9 +1,11 @@
+# apposite
+
 
 ## 字首：
 [[ap-]]
 
 ## 字根：
-[[posit]]
+[posit](/Root%20Prefix%20and%20Suffix/P/posit.md)
 
 ## 字尾：
 [[-ite]]
@@ -15,10 +17,10 @@ adj.
 Highly pertinent or appropriate.
 
 助記法：
-[[posit]] 有放置的意思，放置的很到位，就是貼切的
+[posit](/Root%20Prefix%20and%20Suffix/P/posit.md) 有放置的意思，放置的很到位，就是貼切的
 ## 同義字：
 [[fitting]]
-[[germane]]
+[germane](/Vocabulary/G/germane.md)
 [[relevant]]
 
 ## 反義字：

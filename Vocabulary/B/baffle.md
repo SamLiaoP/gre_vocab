@@ -1,3 +1,5 @@
+# baffle
+
 #GRE重點 
 ## 字首：
 
@@ -15,10 +17,10 @@ To confuse or frustrate completely.
 拜佛
 
 ## 同義字：
-[[befuddle]]
-[[bemuse]]
-[[bewilder]]
-[[flummox]]
+[befuddle](/Vocabulary/B/befuddle.md)
+[bemuse](/Vocabulary/B/bemuse.md)
+[bewilder](/Vocabulary/B/bewilder.md)
+[flummox](/Vocabulary/F/flummox.md)
 
 ## 反義字：
 

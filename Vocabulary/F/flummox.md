@@ -1,3 +1,5 @@
+# flummox
+
 
 ## 字首：
 
@@ -15,7 +17,7 @@ To confuse sb. so that they do not know what to say or do.
 flu(流感)mmox(叫媽媽)
 
 ## 同義字：
-[[baffle]]
+[baffle](/Vocabulary/B/baffle.md)
 [[confound]]
 ## 反義字：
 

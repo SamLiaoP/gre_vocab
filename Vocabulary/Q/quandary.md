@@ -1,3 +1,5 @@
+# quandary
+
 
 ## 字首：
 
@@ -16,7 +18,7 @@ A state of perplexity or doubt.
 
 ## 同義字：
 [[dilemma]]
-[[predicament]]
+[predicament](/Vocabulary/P/predicament.md)
 
 ## 反義字：
 

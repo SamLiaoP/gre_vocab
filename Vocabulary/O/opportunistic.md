@@ -1,3 +1,5 @@
+# opportunistic
+
 adj.
 投機的
 

@@ -1,3 +1,5 @@
+# mendacity
+
 
 ## 字首：
 
@@ -5,7 +7,7 @@
 [[mendac]]
 
 ## 字尾：
-[[-ity]]
+[-ity](/Root%20Prefix%20and%20Suffix/I/-ity.md)
 
 
 ## 解釋：
@@ -18,11 +20,11 @@ Lack of honest
 ## 同義字：
 [[disinformation]]
 [[disingenuous]]
-[[hypocrisy]]
+[hypocrisy](/Vocabulary/H/hypocrisy.md)
 [[insincerity]]
-[[prevarication]]
+[prevarication](/Vocabulary/P/prevarication.md)
 
 ## 反義字：
 
 ## 例句：
-Politicians accused of [[hypocrisy]] and mendacity.
+Politicians accused of [hypocrisy](/Vocabulary/H/hypocrisy.md) and mendacity.

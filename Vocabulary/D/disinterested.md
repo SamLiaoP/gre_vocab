@@ -1,3 +1,5 @@
+# disinterested
+
 #GRE重點 
 ## 字首：
 [[dis-]]
@@ -19,7 +21,7 @@ dis 是away
 [[detachment]]
 [[evenhanded]]
 [[fair]]
-[[impartial]]
+[impartial](/Vocabulary/I/impartial.md)
 
 ## 反義字：
 

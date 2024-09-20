@@ -1,3 +1,5 @@
-[[perpetuate]]
+# 效果持久 + perpetuate
+
+[perpetuate](/Vocabulary/P/perpetuate.md)
 [[perpetual]]
-[[perennial]]
+[perennial](/Vocabulary/P/perennial.md)

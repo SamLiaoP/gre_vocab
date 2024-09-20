@@ -1,3 +1,5 @@
+# trifling
+
 #GRE重點 
 ## 字首：
 
@@ -14,7 +16,7 @@ adj.
 Lacking in significance or solid worth.
 
 ## 同義字：
-[[inconsequential]]
+[inconsequential](/Vocabulary/I/inconsequential.md)
 [[insignificant]]
 [[minimal]]
 [[negligible]]

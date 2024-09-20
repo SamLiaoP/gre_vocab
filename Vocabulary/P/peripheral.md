@@ -1,3 +1,5 @@
+# peripheral
+
 
 ## 字首：
 [[peri-]]
@@ -6,7 +8,7 @@
 [[pher]]
 
 ## 字尾：
-[[-ial]]
+[-ial](/Root%20Prefix%20and%20Suffix/I/-ial.md)
 
 
 ## 解釋：
@@ -19,7 +21,7 @@ Not relating to the main or most important part.
 
 ## 同義字：
 [[fringe]]
-[[marginal]]
+[marginal](/Vocabulary/M/marginal.md)
 
 ## 反義字：
 

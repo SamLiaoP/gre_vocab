@@ -1,8 +1,10 @@
+# fleeting
+
 
 ## 字首：
 
 ## 字根：
-[[fleet]]
+[fleet](/Root%20Prefix%20and%20Suffix/F/fleet.md)
 
 ## 字尾：
 [[-ing]]
@@ -16,7 +18,7 @@ passing swiftly.
 
 ## 同義字：
 [[cursory]]
-[[momentary]]
+[momentary](/Vocabulary/M/momentary.md)
 
 ## 反義字：
 

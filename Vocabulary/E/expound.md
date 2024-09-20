@@ -1,6 +1,8 @@
+# expound
+
 #GRE重點 
 ## 字首：
-[[ex-]]
+[ex-](/Root%20Prefix%20and%20Suffix/E/ex-.md)
 
 ## 字根：
 [[pound]]

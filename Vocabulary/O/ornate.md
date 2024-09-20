@@ -1,11 +1,13 @@
+# ornate
+
 
 ## 字首：
 
 ## 字根：
-[[orn]]
+[orn](/Root%20Prefix%20and%20Suffix/O/orn.md)
 
 ## 字尾：
-[[-ate]]
+[-ate](/Root%20Prefix%20and%20Suffix/A/-ate.md)
 
 
 ## 解釋：

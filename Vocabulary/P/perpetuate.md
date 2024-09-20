@@ -1,6 +1,8 @@
+# perpetuate
+
 
 ## 字首：
-[[per-]]
+[per-](/Root%20Prefix%20and%20Suffix/P/per-.md)
 
 ## 字根：
 

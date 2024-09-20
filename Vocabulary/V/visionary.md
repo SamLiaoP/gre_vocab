@@ -1,3 +1,5 @@
+# visionary
+
 
 ## 字首：
 
@@ -17,7 +19,7 @@ Having or marked by foresight and imagination; A person who has clear ideas abou
 Incapable of being realized or achieved; One whose idea or projects are impractical.
 
 ## 同義字：
-[[utopian]]
+[utopian](/Vocabulary/U/utopian.md)
 [[idealistic]]
 
 ## 反義字：

@@ -1,8 +1,10 @@
+# premise
+
 
 ## 字首：
 
 ## 字根：
-[[mise]]
+[mise](/Root%20Prefix%20and%20Suffix/M/mise.md)
 
 ## 字尾：
 

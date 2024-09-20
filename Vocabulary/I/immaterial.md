@@ -1,3 +1,5 @@
+# immaterial
+
 #GRE重點 
 ## 字首：
 [[im-]]
@@ -6,7 +8,7 @@
 [[material]]
 
 ## 字尾：
-[[-ial]]
+[-ial](/Root%20Prefix%20and%20Suffix/I/-ial.md)
 
 ## 解釋：
 adj.
@@ -15,8 +17,8 @@ Of no significance.
 
 ## 同義字：
 [[unimportant]]
-[[inconsequential]]
-[[trivial]]
+[inconsequential](/Vocabulary/I/inconsequential.md)
+[trivial](/Vocabulary/T/trivial.md)
 
 ## 反義字：
 

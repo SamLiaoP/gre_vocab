@@ -1,12 +1,14 @@
+# inscrutable
+
 #GRE重點 
 ## 字首：
-[[in-]]
+[in-](/Root%20Prefix%20and%20Suffix/I/in-.md)
 
 ## 字根：
-[[scrut]]
+[scrut](/Root%20Prefix%20and%20Suffix/S/scrut.md)
 
 ## 字尾：
-[[-able]]
+[-able](/Root%20Prefix%20and%20Suffix/A/-able.md)
 
 
 ## 解釋：

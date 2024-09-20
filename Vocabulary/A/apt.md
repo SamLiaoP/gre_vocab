@@ -1,8 +1,10 @@
+# apt
+
 
 ## 字首：
 
 ## 字根：
-[[apt]]
+[apt](/Vocabulary/A/apt.md)
 
 ## 字尾：
 

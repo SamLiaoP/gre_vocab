@@ -1,8 +1,10 @@
+# fabrication
+
 #GRE重點 
 ## 字首：
 
 ## 字根：
-[[fabric]]
+[fabric](/Root%20Prefix%20and%20Suffix/F/fabric.md)
 
 ## 字尾：
 [[-ation]]

@@ -1,3 +1,5 @@
+# opportune
+
 
 ## 字首：
 [[op-]]
@@ -14,7 +16,7 @@ adj.
 (時間)合適的，恰當的
 Occurring at an appropriate time.
 
-[[opportunistic]]
+[opportunistic](/Vocabulary/O/opportunistic.md)
 
 ## 同義字：
 

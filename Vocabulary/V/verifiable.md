@@ -1,3 +1,5 @@
+# verifiable
+
 
 ## 字首：
 
@@ -10,15 +12,15 @@
 *adj.*
 可證實的
 Able to be proved.
-[[verify]]
+[verify](/Vocabulary/V/verify.md)
 
 ## 同義字：
-[[corroborate]]
+[corroborate](/Vocabulary/C/corroborate.md)
 [[defensible]]
 [[demonstrable]]
 [[testable]]
 ## 反義字：
 
 ## 例句：
-Throughout the [[trial]], he didn't produce a single verifiable fact.
+Throughout the [trial](/Vocabulary/T/trial.md), he didn't produce a single verifiable fact.
 

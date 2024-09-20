@@ -1,3 +1,5 @@
+# nugatory
+
 
 ## 字首：
 
@@ -16,8 +18,8 @@ Of little or no consequence.
 那個特例
 
 ## 同義字：
-[[trifling]]
-[[inconsequential]]
+[trifling](/Vocabulary/T/trifling.md)
+[inconsequential](/Vocabulary/I/inconsequential.md)
 [[worthless]]
 ## 反義字：
 

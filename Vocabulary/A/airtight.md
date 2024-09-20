@@ -1,3 +1,5 @@
+# airtight
+
 
 ## 字首：
 
@@ -17,11 +19,11 @@ Having no flaws or weaknesses.
 ## 同義字：
 [[unassailable]]
 [[irrefutable]]
-[[unimpeachable]]
+[unimpeachable](/Vocabulary/U/unimpeachable.md)
 
 
 ## 反義字：
 
 ## 例句：
-An airtight argument/[[alibi]].
+An airtight argument/[alibi](/Vocabulary/A/alibi.md).
 

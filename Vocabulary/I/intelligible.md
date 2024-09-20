@@ -1,3 +1,5 @@
+# intelligible
+
 
 ## 字首：
 [[intel-]]
@@ -15,7 +17,7 @@ adj.
 capable of being understand or comprehended.
 
 ## 同義字：
-[[lucid]]
+[lucid](/Vocabulary/L/lucid.md)
 [[readable]]
 
 ## 反義字：

@@ -1,3 +1,5 @@
+# bombastic
+
 
 ## 字首：
 
@@ -11,7 +13,7 @@
 誇大的
 Marked by or given to speech or writing that is given exaggerated importance by artificial or empty means.
 
-[[bombast]] (n.) 大話
+[bombast](/Vocabulary/B/bombast.md) (n.) 大話
 ## 同義字：
 
 ## 反義字：

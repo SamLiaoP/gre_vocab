@@ -1,8 +1,10 @@
+# dubious
+
 
 ## 字首：
 
 ## 字根：
-[[dub]]
+[dub](/Root%20Prefix%20and%20Suffix/D/dub.md)
 
 ## 字尾：
 

@@ -1,3 +1,5 @@
+# esoteric
+
 #GRE重點 
 ## 字首：
 [[eso-]]
@@ -5,7 +7,7 @@
 ## 字根：
 
 ## 字尾：
-[[-ic]]
+[-ic](/Root%20Prefix%20and%20Suffix/I/-ic.md)
 
 
 ## 解釋：

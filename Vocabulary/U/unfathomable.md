@@ -1,3 +1,5 @@
+# unfathomable
+
 #GRE重點 
 ## 字首：
 [[un]]
@@ -6,7 +8,7 @@
 [[fathom]]
 
 ## 字尾：
-[[-able]]
+[-able](/Root%20Prefix%20and%20Suffix/A/-able.md)
 
 ## 解釋：
 adj.

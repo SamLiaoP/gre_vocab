@@ -1,3 +1,5 @@
+# equivocal
+
 
 ## 字首：
 [[equi-]]
@@ -18,7 +20,7 @@ Subject to two or more interpretations and usually used to mislead or confuse.
 (v.)
 含糊其詞
 ## 同義字：
-[[ambiguous]]
+[ambiguous](/Vocabulary/A/ambiguous.md)
 [[elusive]]
 [[evasive]]
 

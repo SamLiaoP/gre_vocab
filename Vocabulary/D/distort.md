@@ -1,8 +1,10 @@
+# distort
+
 
 ## 字首：
 
 ## 字根：
-[[tort]]
+[tort](/Root%20Prefix%20and%20Suffix/T/tort.md)
 
 ## 字尾：
 

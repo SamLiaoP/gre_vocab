@@ -1,3 +1,5 @@
+# unimpeachable
+
 
 ## 字首：
 
@@ -11,7 +13,7 @@
 從無法彈劾延伸無可挑剃的，主要用在品格[[integrity]]上
 
 ## 同義字：
-[[airtight]]
+[airtight](/Vocabulary/A/airtight.md)
 
 ## 反義字：
 

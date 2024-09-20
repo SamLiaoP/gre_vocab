@@ -1,3 +1,5 @@
+# utopian
+
 
 ## 字首：
 
@@ -12,7 +14,7 @@
 Impossibly ideal
 
 ## 同義字：
-[[visionary]]
+[visionary](/Vocabulary/V/visionary.md)
 
 ## 反義字：
 

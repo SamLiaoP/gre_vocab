@@ -1,3 +1,5 @@
+# obscure
+
 
 ## 字首：
 [[ob-]]
@@ -27,7 +29,7 @@ ob(負向)secure(獲取)
 [[obfuscate]]
 
 [[inaccessible]]
-[[opaque]]
+[opaque](/Vocabulary/O/opaque.md)
 
 [[anonymous]]
 

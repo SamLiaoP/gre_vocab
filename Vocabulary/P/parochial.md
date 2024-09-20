@@ -1,3 +1,5 @@
+# parochial
+
 
 ## 字首：
 
@@ -5,7 +7,7 @@
 [[paroch]]
 
 ## 字尾：
-[[-ial]]
+[-ial](/Root%20Prefix%20and%20Suffix/I/-ial.md)
 
 ## 解釋：
 adj.
@@ -22,9 +24,9 @@ n.
 v.
 死亡
 ## 同義字：
-[[insular]]
+[insular](/Vocabulary/I/insular.md)
 [[narrow-minded]]
-[[provincial]]
+[provincial](/Vocabulary/P/provincial.md)
 [[small-minded]]
 
 ## 反義字：

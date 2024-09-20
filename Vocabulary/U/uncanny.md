@@ -1,10 +1,12 @@
+# uncanny
+
 #GRE重點 
 諧音：理解不能
 ## 字首：
 [[un-]]
 
 ## 字根：
-[[canny]]
+[canny](/Root%20Prefix%20and%20Suffix/C/canny.md)
 
 ## 字尾：
 

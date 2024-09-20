@@ -1,8 +1,10 @@
+# fallacious
+
 
 ## 字首：
 
 ## 字根：
-[[fallac]]
+[fallac](/Root%20Prefix%20and%20Suffix/F/fallac.md)
 
 ## 字尾：
 
@@ -13,11 +15,11 @@
 特別強調論證過程有誤
 Not true or accurate; tending to deceive or mislead.
 
-[[fallacy]](*n.*)謬誤
+[fallacy](/Vocabulary/F/fallacy.md)(*n.*)謬誤
 
 
 ## 同義字：
-[[delusive]]
+[delusive](/Vocabulary/D/delusive.md)
 
 ## 反義字：
 

@@ -1,3 +1,5 @@
+# abstruse
+
 #GRE重點 
 ## 字首：
 [[abs-]]

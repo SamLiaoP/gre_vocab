@@ -1,4 +1,6 @@
+# delusive
+
 *adj.*
 錯誤的，虛假的
 
-[[delude]]
+[delude](/Vocabulary/D/delude.md)

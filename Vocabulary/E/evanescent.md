@@ -1,12 +1,14 @@
+# evanescent
+
 #GRE重點 
 ## 字首：
-[[e-]]
+[e-](/Root%20Prefix%20and%20Suffix/E/e-.md)
 
 ## 字根：
-[[van]]
+[van](/Root%20Prefix%20and%20Suffix/V/van.md)
 
 ## 字尾：
-[[-escent]]
+[-escent](/Root%20Prefix%20and%20Suffix/E/-escent.md)
 
 
 ## 解釋：

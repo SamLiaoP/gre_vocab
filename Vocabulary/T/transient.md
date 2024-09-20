@@ -1,12 +1,14 @@
+# transient
+
 #GRE重點 
 ## 字首：
-[[trans-]]
+[trans-](/Root%20Prefix%20and%20Suffix/T/trans-.md)
 
 ## 字根：
-[[i]]
+[i](/Root%20Prefix%20and%20Suffix/I/i.md)
 
 ## 字尾：
-[[-ent]]
+[-ent](/Root%20Prefix%20and%20Suffix/E/-ent.md)
 
 
 ## 解釋：

@@ -1,12 +1,14 @@
+# pertinent
+
 
 ## 字首：
-[[per-]]
+[per-](/Root%20Prefix%20and%20Suffix/P/per-.md)
 
 ## 字根：
-[[tin]]
+[tin](/Root%20Prefix%20and%20Suffix/T/tin.md)
 
 ## 字尾：
-[[-ent]]
+[-ent](/Root%20Prefix%20and%20Suffix/E/-ent.md)
 
 
 ## 解釋：

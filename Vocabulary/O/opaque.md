@@ -1,3 +1,5 @@
+# opaque
+
 #GRE重點 
 ## 字首：
 
@@ -20,7 +22,7 @@ Hard to understand or explain.
 ## 同義字：
 [[inaccessible]]
 [[incomprehensible]]
-[[obscure]]
+[obscure](/Vocabulary/O/obscure.md)
 
 ## 反義字：
 

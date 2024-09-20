@@ -1,3 +1,5 @@
+# ephemeral
+
 #GRE重點 
 ## 字首：
 
@@ -15,9 +17,9 @@ Lasting a very short time.
 一飛就沒了
 
 ## 同義字：
-[[evanescent]]
+[evanescent](/Vocabulary/E/evanescent.md)
 [[short-lived]]
-[[transitory]]
+[transitory](/Vocabulary/T/transitory.md)
 
 ## 反義字：
 

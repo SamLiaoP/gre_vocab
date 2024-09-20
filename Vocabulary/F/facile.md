@@ -1,8 +1,10 @@
+# facile
+
 
 ## 字首：
 
 ## 字根：
-[[fac]]
+[fac](/Root%20Prefix%20and%20Suffix/F/fac.md)
 
 ## 字尾：
 

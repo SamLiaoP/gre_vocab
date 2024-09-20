@@ -1,3 +1,5 @@
+# futility
+
 
 ## 字首：
 
@@ -11,7 +13,7 @@
 n.
 無用
 
-他跟 [[utility]]的拼法很像，而且意思剛好相反
+他跟 [utility](/Vocabulary/U/utility.md)的拼法很像，而且意思剛好相反
 
 ## 同義字：
 

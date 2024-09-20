@@ -1,12 +1,14 @@
+# elucidate
+
 #GRE重點 
 ## 字首：
-[[e-]]
+[e-](/Root%20Prefix%20and%20Suffix/E/e-.md)
 
 ## 字根：
-[[luc]]
+[luc](/Root%20Prefix%20and%20Suffix/L/luc.md)
 
 ## 字尾：
-[[-ate]]
+[-ate](/Root%20Prefix%20and%20Suffix/A/-ate.md)
 
 
 ## 解釋：

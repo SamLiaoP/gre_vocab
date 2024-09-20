@@ -1,8 +1,10 @@
+# rigor
+
 
 ## 字首：
 
 ## 字根：
-[[rig]]
+[rig](/Root%20Prefix%20and%20Suffix/R/rig.md)
 
 ## 字尾：
 

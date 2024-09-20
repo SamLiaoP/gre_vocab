@@ -1,6 +1,8 @@
+# recondite
+
 
 ## 字首：
-[[re-]]
+[re-](/Root%20Prefix%20and%20Suffix/R/re-.md)
 
 ## 字根：
 [[cond]]
@@ -19,9 +21,9 @@ Difficult or impossible for one of ordinary understanding or knowledge to compre
 一直看(con)Die(dite)
 
 ## 同義字：
-[[abstruse]]
-[[arcane]]
-[[esoteric]]
+[abstruse](/Vocabulary/A/abstruse.md)
+[arcane](/Vocabulary/A/arcane.md)
+[esoteric](/Vocabulary/E/esoteric.md)
 
 ## 反義字：
 

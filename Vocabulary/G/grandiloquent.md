@@ -1,11 +1,13 @@
+# grandiloquent
+
 
 ## 字首：
-[[grand-]]
+[grand-](/Root%20Prefix%20and%20Suffix/G/grand-.md)
 ## 字根：
-[[loqu]]
+[loqu](/Root%20Prefix%20and%20Suffix/L/loqu.md)
 
 ## 字尾：
-[[-ent]]
+[-ent](/Root%20Prefix%20and%20Suffix/E/-ent.md)
 
 ## 解釋：
 *adj.*

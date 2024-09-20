@@ -1,7 +1,9 @@
+# tenable
+
 ## 字首：
 
 ## 字根：
-[[ten]]
+[ten](/Root%20Prefix%20and%20Suffix/T/ten.md)
 
 ## 字尾：
 
@@ -11,12 +13,12 @@
 Easy to defend against attack or criticism.
 
 ## 同義字
-[[sound]]
-[[valid]]
+[sound](/Vocabulary/S/sound.md)
+[valid](/Vocabulary/V/valid.md)
 
 ## 反義字
-[[untenable]]
-[[tenuous]]
+[untenable](/Vocabulary/U/untenable.md)
+[tenuous](/Vocabulary/T/tenuous.md)
 
 ## 例句
 The theory is no longer tenable.

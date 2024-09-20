@@ -1,11 +1,13 @@
+# momentous
+
 
 ## 字首：
 
 ## 字根：
-[[moment]]
+[moment](/Root%20Prefix%20and%20Suffix/M/moment.md)
 
 ## 字尾：
-[[-ous]]
+[-ous](/Root%20Prefix%20and%20Suffix/O/-ous.md)
 
 
 ## 解釋：
@@ -17,7 +19,7 @@ adj.
 [[consequential]]
 
 ## 反義字：
-[[inconsequential]]
+[inconsequential](/Vocabulary/I/inconsequential.md)
 [[insignificant]]
 
 ## 例句：

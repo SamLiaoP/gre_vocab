@@ -1,9 +1,11 @@
+# surmise
+
 #GRE重點 
 ## 字首：
-[[sur-]]
+[sur-](/Root%20Prefix%20and%20Suffix/S/sur-.md)
 
 ## 字根：
-[[mise]]
+[mise](/Root%20Prefix%20and%20Suffix/M/mise.md)
 
 ## 字尾：
 

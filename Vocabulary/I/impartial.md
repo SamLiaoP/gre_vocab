@@ -1,3 +1,5 @@
+# impartial
+
 
 ## 字首：
 [[im-]]
@@ -6,7 +8,7 @@
 [[partial]]
 
 ## 字尾：
-[[-ial]]
+[-ial](/Root%20Prefix%20and%20Suffix/I/-ial.md)
 
 
 ## 解釋：
@@ -20,7 +22,7 @@ partial 有部分的，有偏見的意思
 
 ## 同義字：
 [[detachment]]
-[[disinterested]]
+[disinterested](/Vocabulary/D/disinterested.md)
 [[evenhanded]]
 [[level-headed]]
 [[fair]]

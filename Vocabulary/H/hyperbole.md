@@ -1,9 +1,11 @@
+# hyperbole
+
 #GRE重點 
 ## 字首：
-[[hyper-]]
+[hyper-](/Root%20Prefix%20and%20Suffix/H/hyper-.md)
 
 ## 字根：
-[[bole]]
+[bole](/Root%20Prefix%20and%20Suffix/B/bole.md)
 
 ## 字尾：
 
@@ -11,12 +13,12 @@
 ## 解釋：
 *n.*
 誇張（法）
-[[extravagant]] [[exaggeration]](such as "mile-high" ice creams cones)
+[[extravagant]] [exaggeration](/Vocabulary/E/exaggeration.md)(such as "mile-high" ice creams cones)
 
-[[hyperbolic]] (*adj.*)
+[hyperbolic](/Vocabulary/H/hyperbolic.md) (*adj.*)
 
 ## 同義字：
-[[exaggeration]]
+[exaggeration](/Vocabulary/E/exaggeration.md)
 
 ## 反義字：
 

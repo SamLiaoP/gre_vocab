@@ -1,6 +1,8 @@
+# predicament
+
 
 ## 字首：
-[[pre-]]
+[pre-](/Root%20Prefix%20and%20Suffix/P/pre-.md)
 
 ## 字根：
 [[dic]]
@@ -15,7 +17,7 @@ n.
 
 ## 同義字：
 [[dilemma]]
-[[quandary]]
+[quandary](/Vocabulary/Q/quandary.md)
 
 ## 反義字：
 

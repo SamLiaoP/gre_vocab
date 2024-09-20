@@ -1,8 +1,10 @@
+# utilize
+
 
 ## 字首：
 
 ## 字根：
-[[util]]
+[util](/Root%20Prefix%20and%20Suffix/U/util.md)
 
 ## 字尾：
 

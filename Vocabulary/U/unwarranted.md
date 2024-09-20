@@ -1,8 +1,10 @@
+# unwarranted
+
 
 ## 字首：
 
 ## 字根：
-[[warrant]]
+[warrant](/Root%20Prefix%20and%20Suffix/W/warrant.md)
 
 ## 字尾：
 
@@ -17,7 +19,7 @@ lacking adequate or official support.
 [[groundless]]
 [[unfounded]]
 [[unjustified]]
-[[untenable]]
+[untenable](/Vocabulary/U/untenable.md)
 
 ## 反義字：
 

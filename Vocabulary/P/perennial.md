@@ -1,12 +1,14 @@
+# perennial
+
 
 ## 字首：
-[[per-]]
+[per-](/Root%20Prefix%20and%20Suffix/P/per-.md)
 
 ## 字根：
-[[enn]]
+[enn](/Root%20Prefix%20and%20Suffix/E/enn.md)
 
 ## 字尾：
-[[-ial]]
+[-ial](/Root%20Prefix%20and%20Suffix/I/-ial.md)
 
 
 ## 解釋：

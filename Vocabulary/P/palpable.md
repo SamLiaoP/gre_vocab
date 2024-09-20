@@ -1,3 +1,5 @@
+# palpable
+
 
 ## 字首：
 
@@ -5,7 +7,7 @@
 [[palp]]
 
 ## 字尾：
-[[-able]]
+[-able](/Root%20Prefix%20and%20Suffix/A/-able.md)
 
 
 ## 解釋：

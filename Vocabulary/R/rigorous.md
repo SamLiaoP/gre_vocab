@@ -1,3 +1,5 @@
+# rigorous
+
 #GRE重點
 ## 字首：
 
@@ -7,15 +9,15 @@
 
 
 ## 解釋：
-[[rigor]] *n.*
+[rigor](/Vocabulary/R/rigor.md) *n.*
 
 *adj.*
 嚴謹的，縝密的
-[[scrupulously]] accurate.
+[scrupulously](/Vocabulary/S/scrupulously.md) accurate.
 
 
 ## 同義字：
-[[rigid]] 但是，rigid 更多是負面的謹慎，意指不知變通
+[rigid](/Vocabulary/R/rigid.md) 但是，rigid 更多是負面的謹慎，意指不知變通
 
 ## 反義字：
 

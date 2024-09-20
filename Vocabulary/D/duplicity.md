@@ -1,12 +1,14 @@
+# duplicity
+
 
 ## 字首：
-[[du-]]
+[du-](/Root%20Prefix%20and%20Suffix/D/du-.md)
 
 ## 字根：
-[[plic]]
+[plic](/Root%20Prefix%20and%20Suffix/P/plic.md)
 
 ## 字尾：
-[[-ity]]
+[-ity](/Root%20Prefix%20and%20Suffix/I/-ity.md)
 
 
 ## 解釋：
@@ -14,7 +16,7 @@
 欺騙
 dishonest behavior that is meant to trick someone.
 
-[[duplicitous]]
+[duplicitous](/Vocabulary/D/duplicitous.md)
 ## 同義字：
 [[deceit]]
 [[dissemblance]]

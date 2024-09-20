@@ -1,5 +1,7 @@
+# volut
+
 來自拉丁文 _volvere_，意思是「捲起」或「轉動」。
-跟 [[volv]] 一樣
+跟 [volv](/Root%20Prefix%20and%20Suffix/V/volv.md) 一樣
 
 **volut** 和 **volv** 都來自同一個拉丁詞根 **volvere**，意思是「轉動」或「捲起」。它們只是這個詞根在不同詞語中的不同形式：
 

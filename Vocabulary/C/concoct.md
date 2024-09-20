@@ -1,8 +1,10 @@
+# concoct
+
 
 ## 字首：
-[[con-]]
+[con-](/Root%20Prefix%20and%20Suffix/C/con-.md)
 ## 字根：
-[[coct]]
+[coct](/Root%20Prefix%20and%20Suffix/C/coct.md)
 
 ## 字尾：
 

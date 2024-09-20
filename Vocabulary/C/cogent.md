@@ -1,9 +1,11 @@
+# cogent
+
 #GRE重點
 ## 字首：
-[[co]]
+[co](/Root%20Prefix%20and%20Suffix/C/co.md)
 
 ## 字根：
-[[ag]]
+[ag](/Root%20Prefix%20and%20Suffix/A/ag.md)
 
 ## 字尾：
 

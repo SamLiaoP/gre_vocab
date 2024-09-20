@@ -1,6 +1,8 @@
+# transitory
+
 #GRE重點 
 ## 字首：
-[[trans-]]
+[trans-](/Root%20Prefix%20and%20Suffix/T/trans-.md)
 
 ## 字根：
 [[it]]
@@ -15,8 +17,8 @@ adj.
 Of brief duration.
 
 ## 同義字：
-[[ephemeral]]
-[[evanescent]]
+[ephemeral](/Vocabulary/E/ephemeral.md)
+[evanescent](/Vocabulary/E/evanescent.md)
 [[short-lived]]
 [[temporary]]
 ## 反義字：

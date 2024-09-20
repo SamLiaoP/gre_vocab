@@ -1,8 +1,10 @@
+# compulsory
+
 
 ## 字首：
 
 ## 字根：
-[[pel]]
+[pel](/Root%20Prefix%20and%20Suffix/P/pel.md)
 
 ## 字尾：
 

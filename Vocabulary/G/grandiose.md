@@ -1,6 +1,8 @@
+# grandiose
+
 
 ## 字首：
-[[grand-]]
+[grand-](/Root%20Prefix%20and%20Suffix/G/grand-.md)
 ## 字根：
 ## 字尾：
 [[-iose]]

@@ -1,3 +1,5 @@
+# futile
+
 
 ## 字首：
 
@@ -14,7 +16,7 @@ serving no useful purpose: completely ineffective.
 
 n.
 無用
-[[futility]]
+[futility](/Vocabulary/F/futility.md)
 ## 同義字：
 [[fruitless]]
 [[pointless]]

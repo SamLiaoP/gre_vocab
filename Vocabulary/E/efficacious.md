@@ -1,11 +1,13 @@
+# efficacious
+
 
 ## 字首：
 
 ## 字根：
-[[effic]]
+[effic](/Root%20Prefix%20and%20Suffix/E/effic.md)
 
 ## 字尾：
-[[-acious]]
+[-acious](/Root%20Prefix%20and%20Suffix/A/-acious.md)
 
 
 ## 解釋：

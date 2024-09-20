@@ -1,8 +1,10 @@
+# tenuous
+
 
 ## 字首：
 
 ## 字根：
-[[tenu]]
+[tenu](/Root%20Prefix%20and%20Suffix/T/tenu.md)
 特別注意，tenu 跟 ten 很像，但意思完全不同
 
 ## 字尾：
@@ -17,7 +19,7 @@ Flimsy, weak, or uncertain.;
 [[exiguous]]
 
 ## 反義字：
-[[tenable]]
+[tenable](/Vocabulary/T/tenable.md)
 
 
 ## 例句：

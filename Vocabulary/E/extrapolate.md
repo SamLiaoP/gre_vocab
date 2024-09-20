@@ -1,3 +1,5 @@
+# extrapolate
+
 
 ## 字首：
 [[extra-]]
@@ -6,7 +8,7 @@
 [[pol]]
 
 ## 字尾：
-[[-ate]]
+[-ate](/Root%20Prefix%20and%20Suffix/A/-ate.md)
 
 
 ## 解釋：

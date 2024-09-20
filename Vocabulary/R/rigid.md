@@ -1,3 +1,5 @@
+# rigid
+
 
 ## 字首：
 
@@ -12,7 +14,7 @@
 
 
 ## 同義字：
-[[rigorous]] 但是，rigid 更多是負面的謹慎，意指不知變通
+[rigorous](/Vocabulary/R/rigorous.md) 但是，rigid 更多是負面的謹慎，意指不知變通
 
 ## 反義字：
 

@@ -1,8 +1,10 @@
+# compelling
+
 #GRE重點
 ## 字首：
 
 ## 字根：
-[[pel]]
+[pel](/Root%20Prefix%20and%20Suffix/P/pel.md)
 
 ## 字尾：
 
@@ -15,7 +17,7 @@
 引人入勝的
 Demanding attention.
 
-[[compel]]:迫使
+[compel](/Vocabulary/C/compel.md):迫使
 
 
 ## 同義字：

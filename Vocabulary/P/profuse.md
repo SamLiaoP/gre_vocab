@@ -1,8 +1,10 @@
+# profuse
+
 
 ## 字首：
-[[pro-]]
+[pro-](/Root%20Prefix%20and%20Suffix/P/pro-.md)
 ## 字根：
-[[fuse]]
+[fuse](/Root%20Prefix%20and%20Suffix/F/fuse.md)
 ## 字尾：
 
 

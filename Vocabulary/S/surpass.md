@@ -1,6 +1,8 @@
+# surpass
+
 
 ## 字首：
-[[sur-]]
+[sur-](/Root%20Prefix%20and%20Suffix/S/sur-.md)
 
 ## 字根：
 [[pass]]

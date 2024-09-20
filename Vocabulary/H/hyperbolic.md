@@ -1,9 +1,11 @@
+# hyperbolic
+
 #GRE重點 
 ## 字首：
-[[hyper-]]
+[hyper-](/Root%20Prefix%20and%20Suffix/H/hyper-.md)
 
 ## 字根：
-[[bole]]
+[bole](/Root%20Prefix%20and%20Suffix/B/bole.md)
 
 ## 字尾：
 
@@ -11,7 +13,7 @@
 ## 解釋：
 *adj.*
 誇張的
-[[hyperbole]]
+[hyperbole](/Vocabulary/H/hyperbole.md)
 
 ## 同義字：
 

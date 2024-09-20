@@ -1,3 +1,5 @@
+# extraneous
+
 
 ## 字首：
 [[extra-]]
@@ -5,7 +7,7 @@
 ## 字根：
 
 ## 字尾：
-[[-ous]]
+[-ous](/Root%20Prefix%20and%20Suffix/O/-ous.md)
 
 
 ## 解釋：

@@ -1,7 +1,9 @@
+# robust
+
 
 ## 字首：
 ## 字根：
-[[rob]]
+[rob](/Root%20Prefix%20and%20Suffix/rob.md)
 ## 字尾：
 
 ## 解釋：

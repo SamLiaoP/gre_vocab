@@ -1,3 +1,5 @@
+# enigmatic
+
 #GRE重點 
 ## 字首：
 
@@ -5,7 +7,7 @@
 [[enigm]]
 
 ## 字尾：
-[[-ic]]
+[-ic](/Root%20Prefix%20and%20Suffix/I/-ic.md)
 
 ## 解釋：
 adj.
@@ -18,7 +20,7 @@ Full of mystery and difficult to understand.
 
 Sigma is enigma...
 ## 同義字：
-[[conundrum]]
+[conundrum](/Vocabulary/C/conundrum.md)
 [[mysterious]]
 [[perplexing]]
 [[puzzle]]

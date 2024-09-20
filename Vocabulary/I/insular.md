@@ -1,3 +1,5 @@
+# insular
+
 
 ## 字首：
 
@@ -20,10 +22,10 @@ n.
 胰島素
 ## 同義字：
 住在省裡：
-[[provincial]]
+[provincial](/Vocabulary/P/provincial.md)
 
 住在教區：
-[[parochial]]
+[parochial](/Vocabulary/P/parochial.md)
 ## 反義字：
 
 ## 例句：

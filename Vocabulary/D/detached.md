@@ -1,9 +1,11 @@
+# detached
+
 #GRE重點 
 ## 字首：
 [[de-]]
 
 ## 字根：
-[[tach]]
+[tach](/Root%20Prefix%20and%20Suffix/T/tach.md)
 
 ## 字尾：
 [[-ed]]
@@ -16,10 +18,10 @@ Exhibiting an aloof objectively usually free from prejudice or self-interest.
 
 de 有 off的意思，tach是附著，所以就是一個保持距離，不附著連接的概念。
 ## 同義字：
-[[disinterested]]
+[disinterested](/Vocabulary/D/disinterested.md)
 [[evenhanded]]
 [[fair]]
-[[impartial]]
+[impartial](/Vocabulary/I/impartial.md)
 [[insouciance]]
 [[indifferent]]
 

@@ -1,10 +1,12 @@
+# nebulous
+
 
 ## 字首：
 ## 字根：
 [[nebul]]
 
 ## 字尾：
-[[-ous]]
+[-ous](/Root%20Prefix%20and%20Suffix/O/-ous.md)
 
 
 ## 解釋：

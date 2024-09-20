@@ -1,11 +1,13 @@
+# tangent
+
 
 ## 字首：
 
 ## 字根：
-[[tang]]
+[tang](/Root%20Prefix%20and%20Suffix/T/tang.md)
 
 ## 字尾：
-[[-ent]]
+[-ent](/Root%20Prefix%20and%20Suffix/E/-ent.md)
 
 ## 解釋：
 n.

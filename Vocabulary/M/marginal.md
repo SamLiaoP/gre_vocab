@@ -1,3 +1,5 @@
+# marginal
+
 
 ## 字首：
 
@@ -15,7 +17,7 @@ Not very important; very slight or small.
 
 ## 同義字：
 [[fringe]]
-[[peripheral]]
+[peripheral](/Vocabulary/P/peripheral.md)
 
 ## 反義字：
 
