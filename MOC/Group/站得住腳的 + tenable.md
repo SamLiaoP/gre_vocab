@@ -1,0 +1,7 @@
+[[tenable]]
+[[robust]]
+[[cogent]]
+[[conclusive]]
+[[compelling]]
+[[airtight]]
+[[rigorous]]

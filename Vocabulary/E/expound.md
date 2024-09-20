@@ -1,0 +1,23 @@
+#GRE重點 
+## 字首：
+[[ex-]]
+
+## 字根：
+[[pound]]
+
+
+## 字尾：
+
+
+## 解釋：
+v.
+詳細說明，闡述
+To explain by setting forth in careful and often elaborate detail.
+
+## 同義字：
+
+
+## 反義字：
+
+## 例句：
+The article expounds (on) the virtues of a health diet.

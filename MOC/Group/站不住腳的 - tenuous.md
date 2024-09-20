@@ -1,0 +1,5 @@
+[[tenuous]]
+[[unwarranted]]
+[[dubious]]
+[[precarious]]
+[[facile]]

@@ -1,0 +1,6 @@
+[[germane]]
+[[pertinent]]
+[[apt]]
+[[apposite]]
+[[apropos]]
+[[opportune]]

@@ -1,0 +1,3 @@
+[[lucid]]
+[[intelligible]]
+[[palpable]]

@@ -1,0 +1,5 @@
+[[inconsequential]]
+[[immaterial]]
+
+[[trivial]]
+[[trifling]]

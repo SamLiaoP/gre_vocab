@@ -1,0 +1,7 @@
+[[inconsequential]]
+[[immaterial]]
+[[trivial]]
+[[trifling]]
+[[marginal]]
+[[peripheral]]
+[[nugatory]]

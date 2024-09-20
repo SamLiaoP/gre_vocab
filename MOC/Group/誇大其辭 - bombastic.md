@@ -1,0 +1,6 @@
+[[bombastic]]
+[[hyperbole]]
+[[grandiose]]
+[[grandiloquent]]
+[[turgid]]
+[[ornate]]

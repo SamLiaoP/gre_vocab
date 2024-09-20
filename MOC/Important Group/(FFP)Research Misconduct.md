@@ -1,0 +1,3 @@
+[[fabrication]]
+[[falsification]]
+[[plagiarism]]

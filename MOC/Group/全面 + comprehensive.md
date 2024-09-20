@@ -1,0 +1,4 @@
+[[comprehensive]]
+[[eclectic]]
+[[catholic]]
+[[cosmopolitan]]

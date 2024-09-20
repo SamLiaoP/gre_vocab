@@ -1,0 +1,4 @@
+[[ephemeral]]
+[[evanescent]]
+[[transient]]
+[[transitory]]

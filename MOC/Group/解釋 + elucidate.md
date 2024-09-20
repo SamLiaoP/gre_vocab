@@ -1,0 +1,4 @@
+[[elucidate]]
+[[explicate]]
+[[expound]]
+[[elaborate]]

@@ -1,0 +1,3 @@
+[[efficacious]]
+[[fruitful]]
+[[utilitarian]]

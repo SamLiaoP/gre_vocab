@@ -1,0 +1,4 @@
+[[disinterested]]
+[[detached]]
+[[dispassionate]]
+[[impartial]]

@@ -1,0 +1,3 @@
+[[quixotic]]
+[[utopian]]
+[[visionary]]

@@ -1,0 +1,3 @@
+[[tendentious]]
+[[jaundiced]]
+[[partisan]]

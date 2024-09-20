@@ -1,0 +1,3 @@
+[[conjecture]]
+[[speculate]]
+[[surmise]]
