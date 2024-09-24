@@ -1,0 +1,3 @@
+[[homogeneous]]
+[[paucity]]
+[[modicum]]

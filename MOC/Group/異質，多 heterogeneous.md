@@ -1,0 +1,5 @@
+[[heterogeneous]]
+[[profuse]]
+[[superfluous]]
+[[surfeit]]
+[[rampant]]
